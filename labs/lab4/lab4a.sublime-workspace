@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"install",
+				"Selection: Select All"
+			],
+			[
+				"package",
+				"View Package File"
+			],
+			[
+				"LaTexTools",
+				"LaTeXTools: View PDF"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/YYY/Downloads/DominoRobot-master/src/master/MasterMain.py",
+		"/C/Users/YYY/Downloads/DominoRobot-master/src/master/plans/HackyTestPlan.p",
+		"/C/Users/YYY/Downloads/DominoRobot-master/doc/DominoRobotSoftwareArchitecture.drawio",
+		"/E/Design/calendar.py",
+		"/C/Users/YYY/Desktop/YYY/C++/test.cpp",
+		"/E/wpa_supplicant.conf",
+		"/C/Users/YYY/Documents/Racecar/racecar-pilot_y-3/labs/lab1/lab1.py",
+		"/C/Users/YYY/Documents/Racecar/racecar-pilot_y-3/library/controller.py",
+		"/C/Users/YYY/Documents/Racecar/racecar-pilot_y-3/library/simulation/controller_sim.py",
+		"/C/Users/YYY/Documents/Racecar/racecar-pilot_y-3/library/simulation/drive_sim.py",
+		"/C/Users/YYY/Documents/Racecar/racecar-pilot_y-3/library/drive.py",
+		"/C/Users/YYY/Documents/Racecar/racecar-pilot_y-3/library/racecar_utils.py",
+		"/C/Users/YYY/Desktop/stock.m",
+		"/C/Users/YYY/Downloads/mcmthesis/mcmthesis.dtx",
+		"/C/Users/YYY/Desktop/citys_data.mat",
+		"/C/Users/YYY/Desktop/1.py",
+		"/C/Users/YYY/Desktop/assignment1_colab/assignment1/cs231n/classifiers/softmax.py",
+		"/C/Users/YYY/OneDrive/IB/G11/Physics/G11_Physics_Steven Yu_FA_Single Pendulum/G11_Physics_Steven Yu_FA.tex",
+		"/C/Users/YYY/Desktop/YYY/Random notes taken in 2020-2021 second semester G11",
+		"/C/Users/YYY/Downloads/4.sif",
+		"/C/Users/YYY/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/YYY/OneDrive/IB/G11/Chemistry/G11_Chemistry_Steven Yu_IA Practice/G11_Chemistry_Steven Yu_IA Practice.tex",
+		"/C/Users/YYY/OneDrive/IB/G11/Chinese/中文学习者档案.mindnode/contents.xml",
+		"/C/Users/YYY/Desktop/1.asc",
+		"/C/Users/YYY/Downloads/1_2s.sif",
+		"/C/Users/YYY/Desktop/YYY/Dream-typing",
+		"/C/Users/YYY/OneDrive/IB/G11/CAS/G11_CAS_Steven Yu_Presentation_Experience Sharing -.pptx",
+		"/C/Users/YYY/Desktop/YYY/cheesy pick-up lines",
+		"/C/Users/YYY/Desktop/YYY/kcis/lib.py",
+		"/C/Users/YYY/OneDrive/IB/G11/Chemistry/IA/G11_Chemistry_Steven Yu_IA Practice.pdf",
+		"/C/Users/YYY/Downloads/AcademicCommittee@KCISEC/index.html",
+		"/C/Users/YYY/Downloads/172-2612-9195/index.html",
+		"/C/Users/YYY/Downloads/templated-privy/index.html",
+		"/C/Users/YYY/Downloads/templated-privy/default.css",
+		"/C/Users/YYY/OneDrive/IB/G11/Mathematics/G11_Mathematics_Steven Yu_IA Practice/G11_Mathematics_Steven Yu_IA Practice.tex",
+		"/C/Users/YYY/OneDrive/IB/G11/Mathematics/G11_Mathematics_Steven Yu_IA Practice/G11_Chemistry_Steven Yu_IA Practice.tex",
+		"/C/Users/YYY/OneDrive/IB/G11/Mathematics/G11_Mathematics_Steven Yu_IA Practice/G11_Physics_Steven Yu_FA.tex",
+		"/C/Users/YYY/Desktop/CAP PDF Link.txt",
+		"/C/Users/YYY/Desktop/YYY/LaTeX/Literature Review/Test.tex",
+		"/C/Users/YYY/Documents/outreach/outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/cap-english/previous-exams-and-solutions/index.htm",
+		"/C/Users/YYY/Desktop/__pycache__/xiaomeimei.cpython-37.pyc",
+		"/C/Users/YYY/Desktop/CA.py",
+		"/C/Users/YYY/Desktop/xiaomeimei.py",
+		"/C/Users/YYY/Desktop/oddnumber.py",
+		"/C/Users/YYY/Downloads/QuantumComputing-master/QuantumComputer.py",
+		"/C/Users/YYY/Desktop/[RMP] Wolfram S. - Statistical mechanics of cellular automata (1983) - libgen.lc.djvu",
+		"/C/Users/YYY/Desktop/YYY/LaTeX/Science Format/scifile.tex",
+		"/C/Users/YYY/Documents/WeChat Files/wxid_he36943aiyq222/FileStorage/CustomEmotion/00/1.bat",
+		"/C/Users/YYY/Desktop/YYY/LaTeX/Chinese_Test/test.tex",
+		"/C/Users/YYY/Desktop/t.py",
+		"/C/Users/YYY/Desktop/YYY/LaTeX/nature-template.tex",
+		"/C/Users/YYY/Desktop/YYY/LaTeX/MLA_Test/Test.tex",
+		"/C/Users/YYY/Desktop/nature-template.tex",
+		"/C/Users/YYY/Desktop/Poem",
+		"/C/Users/YYY/Desktop/test.ps1",
+		"/C/ProgramData/Microsoft/Wlansvc/Profiles/Interfaces/{4D92B515-D949-4D55-8AB9-D2D648CF96BB}/{F6E59E7E-85A6-4011-8919-FC9AB3416431}.xml",
+		"/C/Users/YYY/Desktop/YYY/sqlmap-dev/lib/takeover/metasploit.py",
+		"/C/Users/YYY/Desktop/cheesy pick-up lines",
+		"/C/Users/YYY/Desktop/__pycache__/t.cpython-37.pyc",
+		"/C/Users/YYY/Desktop/__pycache__/CA.cpython-37.pyc",
+		"/C/Users/YYY/Downloads/ChatRoom-master/SERVER.py",
+		"/C/Users/YYY/Downloads/ChatRoom-master/CLIENT2.py",
+		"/C/Users/YYY/Downloads/ChatRoom-master/CLIENT1.py",
+		"/C/Users/YYY/Desktop/CA",
+		"/C/Users/YYY/Downloads/A-Beautiful-and-Applicable-PyQt5-Interface-master/mathmodel.db",
+		"/C/Users/YYY/Desktop/kcis/lib.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lab4a.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
