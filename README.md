@@ -1,5 +1,5 @@
 # MIT-Minicar
-Archive for the MIT Lincoln Beaver Works Summer Institute(BWSI) Mini-Racecar Program.
+Archive for the MIT Lincoln Beaver Works Summer Institute (BWSI) Mini-Racecar Program.
 
 Unfortunately, some parts of the code are lost; so need to either fix them up or find them somewhere. 
 
